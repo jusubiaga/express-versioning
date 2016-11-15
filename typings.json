@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "body-parser": "registry:npm/body-parser#1.15.2+20160815132839",
+    "express": "registry:npm/express#4.14.0+20160925001530",
+    "serve-static": "registry:npm/serve-static#1.11.1+20160810053450"
+  },
+  "globalDependencies": {
+    "node": "registry:dt/node#6.0.0+20161102143327"
+  }
+}

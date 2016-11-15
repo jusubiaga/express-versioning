@@ -1,0 +1,10 @@
+{
+    "files": ["src/**/*.ts", "!src/.baseDir.ts", "!src/_all.d.ts"],
+    "compilerOptions": {
+        "noImplicitAny": true,
+        "module": "commonjs",
+        "noLib": true,
+        "target": "es6",
+        "sourceMap": false        
+    }
+}
